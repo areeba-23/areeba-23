@@ -1,17 +1,26 @@
-## Areeba Umair 
+<div align="center">
 
-Data Scientist | AI & Android Developer  
+## Areeba Umair
+
+<p>Data Scientist | AI & Android Developer</p>
+
+</div>
 <p align="center">
   <b>Systems, data, and AI — built, optimized, deployed.</b>
 </p>
 
 ## About Me
+Data Science undergraduate focused on building end-to-end intelligent systems.
 
-I am a Data Science undergraduate focused on building practical AI, data-driven, and mobile applications.
+I work across the full pipeline:
+- Data analysis & machine learning
+- AI-driven applications
+- Android & backend development
 
-I enjoy working across the full pipeline—from data analysis and machine learning to Android and backend development.
-
-Currently, I am exploring AI-powered systems, predictive modeling, and scalable mobile applications.
+Currently exploring:
+- Scalable AI systems
+- Predictive modeling
+- Mobile + AI integration
 
 <div align="center">
 
@@ -51,7 +60,6 @@ Currently, I am exploring AI-powered systems, predictive modeling, and scalable 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
