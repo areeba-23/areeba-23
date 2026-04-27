@@ -1,7 +1,9 @@
 ## Areeba Umair 
 
-Data Science Student | AI & Android Developer  
-Building intelligent systems from data to deployment
+Data Scientist | AI & Android Developer  
+<p align="center">
+  <b>Building AI, data, and mobile systems that solve real-world problems</b>
+</p>
 
 ## About Me
 
@@ -30,7 +32,7 @@ Git, GitHub, VS Code, Postman, Azure
 
 ## Featured Projects
 
-### 🧠 AI / Data Science
+### AI / Data Science
 - **Study Plan AI (Ongoing)**  
   AI system that generates personalized study schedules based on user goals and constraints
 
@@ -39,7 +41,7 @@ Git, GitHub, VS Code, Postman, Azure
 
 ---
 
-### 📱 Mobile Applications
+### Mobile Applications
 - **SafeNest**  
   Android safety app with emergency video recording and real-time alert system
 
@@ -48,6 +50,6 @@ Git, GitHub, VS Code, Postman, Azure
 
 ---
 
-### 🖥️ Software Development
+### Software Development
 - **Study Sync**  
   C# desktop application for collaborative studying and progress tracking
