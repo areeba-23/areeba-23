@@ -1,5 +1,3 @@
-<div align="center">
-
 ## Areeba Umair
 
 <p>Data Scientist | AI & Android Developer</p>
