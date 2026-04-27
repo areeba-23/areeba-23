@@ -13,14 +13,14 @@ I enjoy working across the full pipeline—from data analysis and machine learni
 
 Currently, I am exploring AI-powered systems, predictive modeling, and scalable mobile applications.
 
-## 🛠 Tech Stack
-<p align="center">
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-thebadge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-</p>
+
 
 ## Tech Stack
 
