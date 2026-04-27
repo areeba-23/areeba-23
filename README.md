@@ -1,4 +1,7 @@
-## Hi there 👋
+## Areeba Umair 👩‍💻
+
+Data Science Student | AI & Android Developer  
+Building intelligent systems from data to deployment
 
 <!--
 **areeba-23/areeba-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
